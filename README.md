@@ -36,7 +36,6 @@
 - <b> Đề xuất cải tiến: </b>
   - Phát triển giao diện di động (mobile interface).
   - Tích hợp báo cáo nâng cao và biểu đồ động.
-  - Thêm tính năng đánh giá 360 độ (360-degree feedback) để cải thiện công bằng trong đánh giá.
  
 ## 7. Kỹ Năng Ứng Dụng  
 Phân tích yêu cầu, mô hình hóa UML (Use Case, Class, Sequence), mô hình dữ liệu (LDM), viết tài liệu nghiệp vụ và trình bày phân tích hệ thống.  
